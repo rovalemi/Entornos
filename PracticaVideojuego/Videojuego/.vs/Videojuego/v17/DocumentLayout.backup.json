@@ -1,0 +1,61 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ALIZON ROSALES\\OneDrive - Centre d\u0027Estudis Monlau\\1 DAM\\0487 Entorns de Desenvolupament\\Proyectos VS22\\PracticaVideojuego\\Videojuego\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{23A5FC15-D6BF-4CAB-87C7-57ACD19B159B}|Videojuego.vcxproj|C:\\Users\\ALIZON ROSALES\\OneDrive - Centre d\u0027Estudis Monlau\\1 DAM\\0487 Entorns de Desenvolupament\\Proyectos VS22\\PracticaVideojuego\\Videojuego\\Videogame.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{23A5FC15-D6BF-4CAB-87C7-57ACD19B159B}|Videojuego.vcxproj|solutionrelative:Videogame.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{23A5FC15-D6BF-4CAB-87C7-57ACD19B159B}|Videojuego.vcxproj|C:\\Users\\ALIZON ROSALES\\OneDrive - Centre d\u0027Estudis Monlau\\1 DAM\\0487 Entorns de Desenvolupament\\Proyectos VS22\\PracticaVideojuego\\Videojuego\\VideojuegoMain.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{23A5FC15-D6BF-4CAB-87C7-57ACD19B159B}|Videojuego.vcxproj|solutionrelative:VideojuegoMain.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Videogame.cpp",
+              "DocumentMoniker": "C:\\Users\\ALIZON ROSALES\\OneDrive - Centre d\u0027Estudis Monlau\\1 DAM\\0487 Entorns de Desenvolupament\\Proyectos VS22\\PracticaVideojuego\\Videojuego\\Videogame.cpp",
+              "RelativeDocumentMoniker": "Videogame.cpp",
+              "ToolTip": "C:\\Users\\ALIZON ROSALES\\OneDrive - Centre d\u0027Estudis Monlau\\1 DAM\\0487 Entorns de Desenvolupament\\Proyectos VS22\\PracticaVideojuego\\Videojuego\\Videogame.cpp",
+              "RelativeToolTip": "Videogame.cpp",
+              "ViewState": "AgIAAPcAAAAAAAAAAAAzwAEBAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-01-23T21:00:13.138Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "VideojuegoMain.cpp",
+              "DocumentMoniker": "C:\\Users\\ALIZON ROSALES\\OneDrive - Centre d\u0027Estudis Monlau\\1 DAM\\0487 Entorns de Desenvolupament\\Proyectos VS22\\PracticaVideojuego\\Videojuego\\VideojuegoMain.cpp",
+              "RelativeDocumentMoniker": "VideojuegoMain.cpp",
+              "ToolTip": "C:\\Users\\ALIZON ROSALES\\OneDrive - Centre d\u0027Estudis Monlau\\1 DAM\\0487 Entorns de Desenvolupament\\Proyectos VS22\\PracticaVideojuego\\Videojuego\\VideojuegoMain.cpp",
+              "RelativeToolTip": "VideojuegoMain.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-12-10T08:00:30.239Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
