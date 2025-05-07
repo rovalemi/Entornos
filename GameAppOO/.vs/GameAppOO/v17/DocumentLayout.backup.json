@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\alizonros\\OneDrive - Centre d\u0027Estudis Monlau\\1 DAM\\0487 Entorns de Desenvolupament\\Proyectos VS22\\GameAppOO\\GameAppOO\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2D825CE7-3EF4-4855-BD8B-832951BA1EC2}|GameAppOO.vcxproj|C:\\Users\\alizonros\\OneDrive - Centre d\u0027Estudis Monlau\\1 DAM\\0487 Entorns de Desenvolupament\\Proyectos VS22\\GameAppOO\\GameAppOO\\Boss.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{2D825CE7-3EF4-4855-BD8B-832951BA1EC2}|GameAppOO.vcxproj|solutionrelative:Boss.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 253,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Boss.cpp",
+              "DocumentMoniker": "C:\\Users\\alizonros\\OneDrive - Centre d\u0027Estudis Monlau\\1 DAM\\0487 Entorns de Desenvolupament\\Proyectos VS22\\GameAppOO\\GameAppOO\\Boss.cpp",
+              "RelativeDocumentMoniker": "Boss.cpp",
+              "ToolTip": "C:\\Users\\alizonros\\OneDrive - Centre d\u0027Estudis Monlau\\1 DAM\\0487 Entorns de Desenvolupament\\Proyectos VS22\\GameAppOO\\GameAppOO\\Boss.cpp",
+              "RelativeToolTip": "Boss.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-04-03T10:47:46.001Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
